@@ -1,8 +1,11 @@
 The TSFM-Compression code includes the following third-party software/licensing:
 
 ** Chronos - https://github.com/amazon-science/chronos-forecasting
+
 ** Hugging Face Transformers - https://github.com/huggingface/transformers
+
 ** T5 - https://huggingface.co/google/flan-t5-base
+
 
                                  Apache License
                            Version 2.0, January 2004
